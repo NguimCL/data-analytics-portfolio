@@ -1,1 +1,0 @@
-##### Entwicklung einer Datenplattform- Services auf Kubernetes zur kontinuierlichen Überwachung von Komponenten rotierende Equipments 
