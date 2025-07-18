@@ -26,3 +26,4 @@ Daten, Analytik und Engeneering
 ###  IIoT & IoT  
 #### ▶️ [Signalverarbeitung & Modellierung](./projects-Data-Analytics/Project-IIoT/README.md)
 #### ▶️ [IoT Real-time Equipment Analytics](./projects-Data-Analytics/Project-IIoT/IoT-Real-time-Analytics/README.md)
+#### ▶️ [IIoT- Datenplaforme-services](./projects-Data-Analytics/Project-IIoT/IIoT-Datenplatforme-Services/README.md)
